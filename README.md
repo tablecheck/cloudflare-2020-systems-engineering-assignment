@@ -2,20 +2,17 @@
 
 ## What is it?
 
-This exercise is a follow-on to the [General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment.  This is a systems assignment so we want to see that you're able to use sockets directly rather than using a library that handles the HTTP request.
+This exercise is a follow-on to the [General Assignment](https://github.com/tablecheck/cloudflare-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment.  This is a systems assignment so we want to see that you're able to use sockets directly rather than using a library that handles the HTTP request.
 
 ## Useful Links
 
-- [A Tour of Go](https://tour.golang.org/welcome/1)
-- [The Rust Programming Language](https://doc.rust-lang.org/book/index.html)
-- [Cloudflare General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment)
+- [General Engineering Assignment](https://github.com/tablecheck/cloudflare-2020-general-engineering-assignment)
 
 ## Requirements
 
 ### 1. Use one of the specified languages
 
-Choose from among C/C++/Go/Rust. If you aren't familiar with these languages, you're not alone! Many engineers join Cloudflare without
-specific language experience. See the Useful Links section for some quickstart guides.
+Choose from among Ruby, Elixir, Python, Go, or Scala.
 
 ### 2. Use an off the shelf build tool
 
@@ -52,6 +49,6 @@ Test your tool against your site and some other websites.  Let us know what you 
 
 ## Submitting your project
 
-When submitting your project, you should prepare your code for upload to Greenhouse. The preferred method for doing this is to create a "ZIP archive" of your project folder: for more instructions on how to do this on Windows and Mac, see [this guide](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
+When submitting your project, you should submit your code in a zip file as an email attachment to the hiring manager at TableCheck with whom you've spoken.
 
 Please provide the source code only, a compiled binary is not necessary.
