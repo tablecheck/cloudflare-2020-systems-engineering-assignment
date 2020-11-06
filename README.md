@@ -2,11 +2,11 @@
 
 ## What is it?
 
-This exercise is a follow-on to the [General Assignment](https://github.com/tablecheck/cloudflare-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment.  This is a systems assignment so we want to see that you're able to use sockets directly rather than using a library that handles the HTTP request.
+This exercise is a follow-on to the [General Assignment](https://github.com/tablecheck/tablecheck-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment.  This is a systems assignment so we want to see that you're able to use sockets directly rather than using a library that handles the HTTP request.
 
 ## Useful Links
 
-- [General Engineering Assignment](https://github.com/tablecheck/cloudflare-2020-general-engineering-assignment)
+- [General Engineering Assignment](https://github.com/tablecheck/tablecheck-2020-general-engineering-assignment)
 
 ## Requirements
 
