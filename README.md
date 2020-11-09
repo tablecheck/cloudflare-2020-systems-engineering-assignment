@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This exercise is a follow-on to the [General Assignment](https://github.com/tablecheck/tablecheck-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment.  This is a systems assignment so we want to see that you're able to use sockets directly rather than using a library that handles the HTTP request.
+This exercise is a follow-on to the [General Assignment](https://github.com/tablecheck/tablecheck-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment. 
 
 ## Useful Links
 
@@ -17,10 +17,6 @@ Choose from among Ruby, Elixir, Python, Go, or Scala.
 ### 2. Use an off the shelf build tool
 
 Choose something to build your assignment that works with the language you chose (Cargo, Make, CMake etc.).  Include instructions in your readme on how to build and run your program.  Don't check-in binaries, we won't run a pre-compiled binary.
-
-### 3. Do **NOT** use a library to handle the HTTP request
-
-We want to see how familiar you are with systems work.  Although we would normally recommend using a library to handle HTTP requests, for this assignment we want to see how you handle it yourself.
 
 ### 4. Create a CLI tool that makes a request to your links page
 
