@@ -16,7 +16,7 @@ Choose from among Ruby, Elixir, Python, Go, or Scala.
 
 ### 2. Use an off the shelf build tool
 
-Choose something to build your assignment that works with the language you chose (Cargo, Make, CMake etc.).  Include instructions in your readme on how to build and run your program.  Don't check-in binaries, we won't run a pre-compiled binary.
+Choose something to build your assignment that works with the language you chose (Cargo, Make, CMake etc.).  Include instructions in your readme on how to build and run your program.
 
 ### 4. Create a CLI tool that makes a request to your links page
 
@@ -45,6 +45,4 @@ Test your tool against your site and some other websites.  Let us know what you 
 
 ## Submitting your project
 
-When submitting your project, you should submit your code in a zip file as an email attachment to the hiring manager at TableCheck with whom you've spoken.
-
-Please provide the source code only, a compiled binary is not necessary.
+When submitting your project, you should submit your code either as a zip file as an email attachment, or a GitHub repository to the hiring manager at TableCheck with whom you've spoken.
