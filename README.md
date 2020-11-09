@@ -18,7 +18,7 @@ Our team is most familiar with Python, Ruby, Go, or Elixir but you are more than
 
 Choose something to build your assignment that works with the language you chose. Please include instructions in your README with how to build and run your program.
 
-### 4. Create a CLI tool that makes a request to your links page
+### 3. Create a CLI tool that makes a request to your links page
 
 Your CLI tool should take an argument that is a full URL (--url). This could be, for example: https://google.com/.  The tool will make an HTTP request to the URL and print the response directly to the console.  Test the CLI tool by specifying the /links URL in your General Assignment and make sure it prints the entire json document with all your links.
 
@@ -26,7 +26,7 @@ Your CLI tool should also allow a --help parameter that describes how to use it.
 
 Feel free to use a library to handle command line argument parsing (getopt etc.).
 
-### 5. Measure how fast it is
+### 4. Measure how fast it is
 
 Next, add logic to your tool to profile your page.  Add a new argument --profile that takes a positive integer.  Your tool should make that number of requests to your site.  Time the requests and print:
 
