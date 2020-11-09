@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This exercise is a follow-on to the [General Assignment](https://github.com/tablecheck/tablecheck-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment. 
+This exercise is a follow-on to the [General Assignment](https://github.com/tablecheck/tablecheck-2020-general-engineering-assignment).  In this part, you'll write a program that makes a request to the endpoints you previously created.
 
 ## Useful Links
 
@@ -10,17 +10,17 @@ This exercise is a follow-on to the [General Assignment](https://github.com/tabl
 
 ## Requirements
 
-### 1. Use one of the specified languages
+### 1. Use any programming language you like.
 
-Choose from among Ruby, Elixir, Python, Go, or Scala.
+Our team is most familiar with Python, Ruby, Go, or Elixir but you are more than welcome to use any language you are proficient in.
 
 ### 2. Use an off the shelf build tool
 
-Choose something to build your assignment that works with the language you chose (Cargo, Make, CMake etc.).  Include instructions in your readme on how to build and run your program.
+Choose something to build your assignment that works with the language you chose. Please include instructions in your README with how to build and run your program.
 
 ### 4. Create a CLI tool that makes a request to your links page
 
-Your CLI tool should take an argument that is a full URL (--url).  The tool will make an HTTP request to the URL and print the response directly to the console.  Test the CLI tool by specifying the /links URL in your General Assignment and make sure it prints the entire json document with all your links.
+Your CLI tool should take an argument that is a full URL (--url). This could be, for example: https://google.com/.  The tool will make an HTTP request to the URL and print the response directly to the console.  Test the CLI tool by specifying the /links URL in your General Assignment and make sure it prints the entire json document with all your links.
 
 Your CLI tool should also allow a --help parameter that describes how to use it.
 
@@ -45,4 +45,10 @@ Test your tool against your site and some other websites.  Let us know what you 
 
 ## Submitting your project
 
-When submitting your project, you should submit your code either as a zip file as an email attachment, or a GitHub repository to the hiring manager at TableCheck with whom you've spoken.
+You made it this far! Thank you so much for your time and effort completing this take-home project. Now it's time to hand it in and relax.
+
+When submitting your project, you should submit your code in one of the following ways:
+- a GitHub repository (preferred)
+- as a zip file (then email it to us),
+
+Please send this to the hiring manager at TableCheck with whom you've spoken.
