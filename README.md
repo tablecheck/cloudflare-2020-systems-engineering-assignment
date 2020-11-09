@@ -47,8 +47,6 @@ Test your tool against your site and some other websites.  Let us know what you 
 
 You made it this far! Thank you so much for your time and effort completing this take-home project. Now it's time to hand it in and relax.
 
-When submitting your project, you should submit your code in one of the following ways:
-- as a GitHub repository (preferred)
-- as a ZIP file (then email it to us)
+When submitting your project, you should submit your code as a GitHub repository link. Please send this to the hiring manager at TableCheck with whom you've spoken.
 
-Please send this to the hiring manager at TableCheck with whom you've spoken.
+Again, congratulations and thank you! :tada:
